@@ -1,4 +1,4 @@
-[![NPM version][npm-image]][npm-url] [![github](https://img.shields.io/badge/GitHub-depositary-9A9A9A)](https://github.com/Bruce-yangs/vue-vite-cli)
+[![NPM version][npm-image]][npm-url][![github](https://img.shields.io/badge/GitHub-depositary-9A9A9A)](https://github.com/Bruce-yangs/vue-vite-cli)
 [npm-url]:https://npmjs.org/package/vue-vite-cli
 [npm-image]:https://img.shields.io/npm/v/vue-vite-cli.svg
 ## 搭建一个自定义的脚手架,基于vue3 + vite， 包含 tailwindcss， typescript，Element Plus的后台模板
