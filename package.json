@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "vite": "./bin/vite.js"
+    "vite": "./bin/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,16 +13,28 @@
     "bin",
     "lib"
   ],
-  "keywords": ["vue","vite","cli"],
-  "author":  {
+  "keywords": [
+    "vue",
+    "vite",
+    "cli",
+    "typescript",
+    "tailwindcss"
+  ],
+  "author": {
     "name": "yangkun",
     "email": "469402333@qq.com"
+  },
+  "homepage": "https://github.com/Bruce-yangs/vue-vite-cli",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Bruce-yangs/vue-vite-cli.git"
   },
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.1",
     "clear": "^0.1.0",
     "commander": "^8.0.0",
+    "cross-spawn": "^7.0.3",
     "download-git-repo": "^3.0.2",
     "figlet": "^1.5.0",
     "handlebars": "^4.7.7",
